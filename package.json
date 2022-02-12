@@ -1,7 +1,7 @@
 {
-  "name": "Nombre",
+  "name": "package.json",
   "version": "0.0.0",
-  "description": "",
+  "description":"any",
   "main": "pottler.js",
   "scripts": {
   "start": "node pottler.js"},
