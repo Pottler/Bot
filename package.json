@@ -1,11 +1,12 @@
 {
-  "name": "package.json",
+  "name": "nombre",
   "version": "0.0.0",
-  "description":"any",
+  "description": "",
   "main": "pottler.js",
   "scripts": {
-  "start": "node pottler.js"},
+  "start": "node pottler.js"
+  },
   "dependencies": {
-    "@adiwajshing/baileys": "^3.4.1"
+    "@adiwajshing/baileys": "^4.0.0"
   }
 }
